@@ -6,7 +6,9 @@
 
 ## 感谢
 
-首先感谢Sam's在上海疫情期间，给我们的帮助，让我们在疫情期间依旧可以买到很多好的东西！
+1. 感谢Sam's在上海疫情期间，给我们的帮助，让我们在疫情期间依旧可以买到很多好的东西！，购买Sam's会员请前往[山姆会员商店](https://www.samsclub.cn/)
+1. 感谢各位朋友对该项目的支持和star。
+1. 感谢 [gyf19](https://github.com/gyf19), [Matata-lol](https://github.com/Matata-lol), [3096](https://github.com/3096), [Nicolerobinn](https://github.com/Nicolerobinn), [likang7](https://github.com/likang7),[zyr3536](https://github.com/zyr3536)对本项目的贡献
 
 ## 使用方式
 
